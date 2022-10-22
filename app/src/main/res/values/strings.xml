@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">QrcodeReader</string>
+    <string name="qrcode_title">QR Code Reader</string>
+    <string name="qrcode_button">Ler Qr-Code</string>
+    <string name="qrcode_image_desc">Qrcode Image</string>
 </resources>
